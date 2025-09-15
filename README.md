@@ -48,12 +48,8 @@ smart-home/
 
 ## 📸 Screenshots
 
-### Home Page
-![Home Page](./ss/Screenshot 2025-05-21 at 12-48-49 HD Ticket.png)
+![Home Page](./ss/Screenshot%202025-05-21%20at%2012-48-49%20HD%20Ticket.png)
+![Device Details](./ss/Screenshot%20dev%20details.png)
+![Light Prediction](./ss/Screenshot%20light%20pred.png)
+[Weather Prediction](./ss/Screenshot%20weather%20pred.mp4)
 
-### Device Details
-![Device Details](./ss/Screenshot dev details.png)
-### Light Prediction
-![Light Prediction ](./ss/Screenshot light pred.png)
-### Weather Prediction
-![Weather Prediction](./ss/Screenshot weather pred.mp4)
