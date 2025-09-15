@@ -51,5 +51,5 @@ smart-home/
 ![Home Page](./ss/Screenshot%202025-05-21%20at%2012-48-49%20HD%20Ticket.png)
 ![Device Details](./ss/Screenshot%20dev%20details.png)
 ![Light Prediction](./ss/Screenshot%20light%20pred.png)
-[Weather Prediction](./ss/Screenshot%20weather%20pred.mp4)
+[Weather Prediction](./ss/Screenshot%20weather%20pred.png)
 
